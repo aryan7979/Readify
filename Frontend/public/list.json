@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "First Book",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/stack-colorful-books_74855-17852.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Story Book",
+    "title": "Second Book",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/open-book-with-pages-flying_1284-39749.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Comedy Book",
+    "title": "Third Book",
+    "price": 20,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2150444054.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Novel Book",
+    "title": "Fourth Book",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/books-wooden-table_1150-3837.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Story Book",
+    "title": "Fifth Book",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/pile-books-table_23-2147779378.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Comedy Book",
+    "title": "Sixth Book",
+    "price": 20,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-photo/funny-illustration-book-with-comedy-face_1340-30525.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Story Book",
+    "title": "Seventh Book",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/colorful-books-stack_23-2147754586.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Novel Book",
+    "title": "Eighth Book",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/open-book-wooden-table_1150-3776.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Food Book",
+    "title": "Ninth Book",
+    "price": 200,
+    "category": "Food",
+    "image": "https://img.freepik.com/free-photo/cookbook-with-kitchen-utensils_23-2148147755.jpg"
+  }
+]
